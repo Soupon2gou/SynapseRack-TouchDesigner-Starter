@@ -13,21 +13,26 @@ SynapseRack の出力を TouchDesigner で即利用でき、TD側でもVJが出�
 - 軽量構成のため長時間の VJ セットでも安定
 
 ### 📂 内容
-- `SRTDpf.toe` : SynapseRack 連携済み TouchDesigner プロジェクトファイル
-- `src/` : ノード構成図、バンド情報などの補助ファイル（あれば）
-- `example/` : テスト用ビジュアルまたは参考パッチ（任意）
+- `SRTDpf.toe` : SynapseRack連携済みのTouchDesignerプロジェクトファイル
+- `SampleMovie/` : 初期でTDの4レイヤーに入っている動画です。こちらから拝借しました→(https://booth.pm/ja/items/3694022)
+- `NodeConfiguration.png` : ノード構成図
+- `midimap.png` : デフォルトでアサインされているAKAI APC mini(midiコン)でのマップ
 
 ### 🚀 使い方
-1. SynapseRack を起動し、Audio Routing を有効化  
+1. SynapseRack を起動(先に開かないとTDでしかmidiコンが使えません)
 2. TouchDesigner を開き、`SRTDpf.toe` を読み込む  
-3. Audio CHOP に信号が入っていることを確認  
-4. 任意の TOP / CHOP に接続してビジュアルを拡張
+3. 
+4. 
 
 ### 🛠 推奨環境
 - TouchDesigner 2023 以降
-- SynapseRack 最新版
+- SynapseRack 最新版 最新情報はココから確認(https://synapserack.com/docs/contact/)
 - NVIDIA GPU 搭載 Windows 環境（推奨）
 
----
+### 内容の詳細
 
-必要であればスクショ用の画像・Diagram・より丁寧な英語版 README も追加で作れます。
+link:
+
+この記事は2025VJアドカレに参加してます。
+https://adventar.org/calendars/11668
+
