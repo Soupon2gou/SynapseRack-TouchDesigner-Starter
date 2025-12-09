@@ -16,6 +16,7 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 ### 📂 内容
 - `toeファイル` : SynapseRack連携済みのTouchDesignerプロジェクトファイル
 (バックアップの際に勝手にナンバリングされてるので勝手にリネームしてください)
+以下の引用元のEffects(in toe)が使用されています。
 
 - `SampleMovie/` : 初期でTDの4レイヤーにパスがここにアサインされてます。引用元をダウンロードして、動画ファイルを入れれば動くと思います。
 
@@ -24,7 +25,13 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 - `midimap.png` : デフォルトでアサインされているAKAI APC mini(midiコン)でのマップ
 
 ### 📎 引用元
-- SampleMovie： [BOOTH - Visions of Outer Space](https://booth.pm/ja/items/3694022)
+- SampleMovie： [BOOTH - VJ Loops](https://booth.pm/ja/items/3694022)
+- Effects(in toe) [mediapipe-touchdesigner
+](https://github.com/torinmb/mediapipe-touchdesigner.git)
+- Effects(in toe) [learningGLSL](https://github.com/raganmd/learningGLSL.git)
+- Effects(in toe) [touchFluid](https://github.com/kamindustries/touchFluid.git)
+- Effects(in toe) [GenerativeDesign](https://github.com/TouchDesigner/GenerativeDesign.git)
+
 
 ### 🚀 使い方
 1. SynapseRack を起動(先に開かないとTDでしかmidiコンが使えません)
@@ -44,3 +51,9 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 この記事は2025VJアドカレに参加してます。
 https://adventar.org/calendars/11668
 
+### 📮 連絡先
+X(旧Twitter) : ソウポン2号(@Soupon2gou) 
+
+Discord : Soupon2gou
+
+不具合や違反があったら連絡お願いします。
