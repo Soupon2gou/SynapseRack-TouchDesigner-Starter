@@ -8,8 +8,6 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 
 ### ✨ 特徴
 - SynapseRack の各アウトプットを TD で自動受信
-- Spectrum / Waveform / Envelope / Band-split の信号をまとめて利用可能
-- そのまま VJ プレイができるシンプルな TD セットアップ
 - SynapseRack → TouchDesigner → Spout/OBS/Resolume のパイプラインに対応
 - 軽量構成のため長時間の VJ セットでも安定(GPUエフェクトを使わない限り)
 
@@ -18,7 +16,8 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 (バックアップの際に勝手にナンバリングされてるので勝手にリネームしてください)
 以下の引用元のEffects(in toe)が使用されています。
 
-- `SampleMovie/` : 初期でTDの4レイヤーにパスがここにアサインされてます。引用元をダウンロードして、動画ファイルを入れれば動くと思います。
+- `SampleMovie/` : 初期でTouchDesignserの4レイヤーにパスがここにアサインされてます。
+引用元をダウンロードして、フォルダを作り動画ファイルを入れれば動くと思います。
 
 - `システムマップ.png` : ノード構成図
 
