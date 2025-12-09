@@ -20,9 +20,9 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 
 - `SampleMovie/` : 初期でTDの4レイヤーにパスがここにアサインされてます。引用元をダウンロードして、動画ファイルを入れれば動くと思います。
 
-- `NodeConfiguration.png` : ノード構成図
+- `システムマップ.png` : ノード構成図
 
-- `midimap.png` : デフォルトでアサインされているAKAI APC mini(midiコン)でのマップ
+- `APCMiniMK2アサインマップ.png` : デフォルトでアサインされているAKAI APC mini(midiコン)でのマップ
 
 ### 📎 引用元
 - SampleMovie： [BOOTH - VJ Loops](https://booth.pm/ja/items/3694022)
