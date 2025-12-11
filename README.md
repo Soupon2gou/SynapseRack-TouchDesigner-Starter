@@ -8,7 +8,7 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 
 ### ✨ 特徴
 - SynapseRack の各アウトプットを TD で自動受信
-- SynapseRack → TouchDesigner → Spout/OBS/Resolume のパイプラインに対応
+- SynapseRack → TouchDesigner → Spout のパイプラインに対応
 - 軽量構成のため長時間の VJ セットでも安定(GPUエフェクトを使わない限り)
 
 ### 📂 内容
@@ -17,14 +17,12 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 以下の引用元のEffects(in toe)が使用されています。
 
 - `SampleMovie/` : 初期でTouchDesignserの4レイヤーにパスがここにアサインされてます。
-引用元をダウンロードして、フォルダを作り動画ファイルを入れれば動くと思います。
 
 - `システムマップ.png` : ノード構成図
 
 - `APCMiniMK2アサインマップ.png` : デフォルトでアサインされているAKAI APC mini(midiコン)でのマップ
 
 ### 📎 引用元
-- SampleMovie： [BOOTH - VJ Loops](https://booth.pm/ja/items/3694022)
 - Effects(in toe) [mediapipe-touchdesigner
 ](https://github.com/torinmb/mediapipe-touchdesigner.git)
 - Effects(in toe) [learningGLSL](https://github.com/raganmd/learningGLSL.git)
@@ -35,8 +33,10 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 ### 🚀 使い方
 1. SynapseRack を起動(先に開かないとTDでしかmidiコンが使えません)
 2. TouchDesigner を開き、toeファイル を読み込む  
-3. 
-4. 
+3. midiコン接続確認・アサイン
+4. VJ_HUBの4レイヤー付近に移動
+5. 素材を入れる
+6. 出力確認して使用！
 
 ### 🛠 推奨環境
 - TouchDesigner 2023 以降
