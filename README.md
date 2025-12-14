@@ -17,6 +17,7 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 以下の引用元のEffects(in toe)が使用されています。
 
 - `SampleMovie/` : 初期でTouchDesignserの4レイヤーにパスがここにアサインされてます。
+                   二次配布での規約違反が怖いのでsora2の適当な動画入れてます。
 
 - `システムマップ.png` : ノード構成図
 
