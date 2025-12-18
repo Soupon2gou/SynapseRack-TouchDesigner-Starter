@@ -22,6 +22,9 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 - `システムマップ.png` : ノード構成図
 
 - `APCMiniMK2アサインマップ.png` : デフォルトでアサインされているAKAI APC mini(midiコン)でのマップ
+<img width="1280" height="720" alt="システムマップ" src="https://github.com/user-attachments/assets/84dfd005-d7bd-42fa-bf6c-25838b6f2e23" />
+<img width="1280" height="720" alt="APCMiniMK2アサインマップ" src="https://github.com/user-attachments/assets/d2870b06-639e-46fb-aedb-4a25c2a3a38b" />
+
 
 ### 📎 引用元
 - Effects(in toe) [mediapipe-touchdesigner
