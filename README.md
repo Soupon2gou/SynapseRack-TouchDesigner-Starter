@@ -46,7 +46,7 @@ SynapseRackだけでなく拡張的にTouchDesignerに挑戦したい人にお�
 
 ### 内容の詳細
 
-### link: 12/18まで待って！
+### link: https://note.com/soupon2gou2/n/n7704747069c7?sub_rt=share_pw
 
 この記事は2025VJアドカレに参加してます。
 https://adventar.org/calendars/11668
